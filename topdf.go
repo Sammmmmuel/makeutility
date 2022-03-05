@@ -10,7 +10,7 @@ import (
 
 func main() {
 
-	file := "testfile.txt"
+	file := "file.txt"
 
 	content, err := ioutil.ReadFile(file)
 
@@ -24,7 +24,7 @@ func main() {
 
 	pdf.MultiCell(190, 5, string(content), "0", "0", false)
 
-	_ = pdf.OutputFileAndClose("test.pdf")
+	_ = pdf.OutputFileAndClose("file.pdf")
 
 	fmt.Println("PDF Created")
 
