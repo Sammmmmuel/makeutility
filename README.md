@@ -1,4 +1,4 @@
-[![Go Report Card])](https://goreportcard.com/badge/github.com/make-school-labs/makescraper)
+![Go Report Card](https://goreportcard.com/badge/github.com/make-school-labs/makescraper)
 
 # PDF Converter Using Go !
 ---
