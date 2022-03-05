@@ -7,9 +7,9 @@
 # How to use 
 
 ```
-Go run topdf.go
+go run topdf.go
 ```
 ---
 
 ![woaahh](img.png)
-#### make sure the file is named testfile.txt
+#### make sure the file is named file.txt
