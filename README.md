@@ -1,3 +1,11 @@
-this is a program designed to help when you need a file transformed into a pdf. 
+# PDF Converter Using Go !
 
-for this to work insert your textfile in the folder and run the program ! make sure the file is called testfile.txt 
+## this is a program designed to help when you need a file transformed into a pdf. 
+
+# How to use 
+
+```
+Go run topdf.go
+```
+
+### make sure the file is named testfile.txt
